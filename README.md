@@ -1,7 +1,7 @@
 # 🛡️ WatchdogApp – Akıllı Masaüstü Güvenlik Sistemi
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q3ZzF6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LfpjDCLkxZheU/giphy.gif" width="180px">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="140px">
 </p>
 
 <p align="center">
