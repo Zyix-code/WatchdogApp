@@ -60,7 +60,8 @@
 Projeyi derlemeden önce aşağıdaki paketlerin kurulu olduğundan emin olun:
 ```bash
 Install-Package OpenCvSharp4
-Install-Package OpenCvSharp4.runtime.win```bash
+Install-Package OpenCvSharp4.runtime.win
+```
 
 ### 3️⃣ İlk Çalıştırma
 Programı tam yetki ile çalışması için Yönetici Olarak (Run as Administrator) başlatın.
