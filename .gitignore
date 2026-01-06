@@ -1,0 +1,18 @@
+# Visual Studio derleme dosyaları
+[Bb]in/
+[Oo]bj/
+.vs/
+
+# Kullanıcıya özel ayarlar
+*.user
+*.userosscache
+*.suo
+
+# ZYIX Security Logları ve Fotoğrafları (Bunları asla yükleme!)
+ZYIX_Logs/
+IzinsizGirisler/
+*.log
+*.png
+
+# Paketler (NuGet bunları otomatik indirir)
+packages/
