@@ -64,13 +64,13 @@ Install-Package OpenCvSharp4.runtime.win
 ```
 
 ### 3️⃣ İlk Çalıştırma
-Programı tam yetki ile çalışması için Yönetici Olarak (Run as Administrator) başlatın.
+• Programı tam yetki ile çalışması için Yönetici Olarak (Run as Administrator) başlatın.
 
-İlk Kurulum: Uygulama ilk açılışta sizden bir Yönetici Şifresi ve Hedef Uygulama İsmi isteyecektir.
+• İlk Kurulum: Uygulama ilk açılışta sizden bir Yönetici Şifresi ve Hedef Uygulama İsmi isteyecektir.
 
-Ayarlar: Bu bilgiler Properties.Settings içerisinde güvenli bir şekilde saklanır.
+• Ayarlar: Bu bilgiler Properties.Settings içerisinde güvenli bir şekilde saklanır.
 
-Aktivasyon: Kurulumdan sonra uygulama kendini gizler ve nöbet moduna geçer.
+• Aktivasyon: Kurulumdan sonra uygulama kendini gizler ve nöbet moduna geçer.
 
 ⚖️ Lisans
 Bu proje GNU General Public License v3.0 ile lisanslanmıştır. Bu yazılım tamamen eğitim ve kişisel güvenlik amaçlı geliştirilmiştir. Kötüye kullanımda sorumluluk kullanıcıya aittir.
